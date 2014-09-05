@@ -1,3 +1,21 @@
 MyWeiBoDEMO
 ===========
-text
+###关于项目:
+####1.这是一个仿造新浪微博的项目,利用新浪微博的开发接口来实现简单的查看微博和发送微博功能.
+####2.不知道什么原因,一直无法直接push项目文件到Github上来.所以就把项目打包成了*__MyWeiBo.zip__*压缩包文件
+###功能简介:
+####1.启动界面
+ ![image](https://raw.githubusercontent.com/lsysun1/MyWeiBoDEMO/master/示例图片/程序启动.png)
+####2.OAuth认证
+ ![image](https://raw.githubusercontent.com/lsysun1/MyWeiBoDEMO/master/示例图片/OAuth认证.png)
+####3.新特性
+ ![image](https://raw.githubusercontent.com/lsysun1/MyWeiBoDEMO/master/示例图片/新特性.png)
+####4.进入主界面(最后一张新特性)
+ ![image](https://raw.githubusercontent.com/lsysun1/MyWeiBoDEMO/master/示例图片/进入主界面.png)
+####5.主界面(首页的那个按钮上可以显示未读的微博数量,点击加号进入发微博界面)
+ ![image](https://raw.githubusercontent.com/lsysun1/MyWeiBoDEMO/master/示例图片/主界面.png)
+####6.发送微博
+ ![image](https://raw.githubusercontent.com/lsysun1/MyWeiBoDEMO/master/示例图片/发送微博.png)
+####7.发送结果
+ ![image](https://raw.githubusercontent.com/lsysun1/MyWeiBoDEMO/master/示例图片/发送结果.png)
+####8.还有下拉刷新最新微博,上拉显示更多以前的微博等等功能.
